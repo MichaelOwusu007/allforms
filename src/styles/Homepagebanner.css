@@ -1,0 +1,54 @@
+.homePageBanner {
+    overflow: hidden;
+  
+  }
+  
+  .imageContainer {
+    display: flex;
+    width: 100%;
+  
+
+  }
+  
+  .homePageBanner img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    animation: slide 30s linear infinite;
+    z-index: -1;
+  }
+  
+
+  @media (min-width: 380px) {
+    .homePageBanner img {
+      height: 280px;
+    }
+  }
+  
+  @media (min-width: 500px) {
+    .homePageBanner img {
+      height: 300px;
+      object-fit: cover;
+    }
+  }
+  
+  @media (min-width: 670px) {
+    .homePageBanner img {
+      height: 380px;
+    }
+  }
+  
+  @media (min-width: 860px) {
+    .homePageBanner img {
+      height: 450px;
+    }
+  }
+  
+  @media (min-width: 1300px) {
+    .homePageBanner img {
+      height: 500px;
+    }
+  }
+  
+
+  

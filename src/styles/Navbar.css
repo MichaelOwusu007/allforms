@@ -1,0 +1,13 @@
+.navlinks ul li{
+    list-style: none;
+    margin-left: 50px;
+}
+
+.navlinks a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navlinks{
+    font-family: "Poppins", sans-serif;
+}

@@ -1,0 +1,43 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800&family=Righteous&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+* {
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  margin: 0;
+  scroll-snap-type: proximity;
+
+}
+
+body {
+  overflow-x: hidden;
+  background-color: black;
+  color: #fff;
+}
+
+/* Apply Young Serif to another class */
+.young-serif-font {
+  font-family: 'Young Serif', serif;
+  font-weight: bolder;
+}
+
+.righteous-font{
+  font-family: 'Righteous', sans-serif;
+  font-weight: bolder;
+}
+
+
+html {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 400;
+}
+
+.space-grotesk {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 400;
+}
