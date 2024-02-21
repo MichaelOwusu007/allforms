@@ -10,7 +10,7 @@ function Homepagebanner() {
   return (
     <div className="homePageBanner">
       <div className="imageContainer">
-        <img src="/HeaderImage.png" alt="" />
+        <img src="/Hero.png" alt="" />
       </div>
     </div>
   );

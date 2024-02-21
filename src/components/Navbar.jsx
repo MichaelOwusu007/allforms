@@ -20,7 +20,7 @@ function Navbar() {
     <div className=' navbar-container w-full absolute  top-0 z-[90] px-4 h-20 mx-auto justify-between items-center flex sm:px-5 md:px-10 lg:px-10 xl:px-20  bg-opacity-[0.4]  '>
         <div className='logo'>
           <a href='/'>
-            <img src="" alt="logo" className=' w-[80px] h-[50px] lg:w-[100px] lg:h-[70px] ' />
+            <img src="/logo.png" alt="logo" className=' w-[80px] h-[30px] lg:w-[100px] lg:h-[40px] ' />
         </a>
       </div>
 
