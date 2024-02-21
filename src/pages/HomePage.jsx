@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/Home.css'
 import Navbar from '../components/Navbar'
-import Homepagebanner from '../components/Homepagebanner'
+import Homepagebanner from '../components/HomePageBanner'
 import Footer from '../components/Footer'
 import { FaTwitter } from 'react-icons/fa'
 
