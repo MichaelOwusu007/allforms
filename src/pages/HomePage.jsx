@@ -30,7 +30,7 @@ function HomePage() {
 
                             <div className='flex justify-between'>
                                 <div>
-                                    <img className='w-15 h-10' src="/logo.main.png" alt="" />
+                                    <img className='w-15 h-10' src="/logo.png" alt="" />
                                     <span className='flex items-center gap-2 mt-2'> <FaTwitter/>i am Micheal</span>
                                 </div>
                                 <div className=''>
@@ -47,7 +47,7 @@ function HomePage() {
                             <div className=" shadow-2xl bg-[rgba(253,253,253,0.8)] flex-col flex gap-4 rounded-md p-4 py-6">
                             <div className='flex justify-between'>
                                 <div>
-                                    <img className='w-15 h-10' src="/logo.main.png" alt="" />
+                                    <img className='w-15 h-10' src="/logo.png" alt="" />
                                     <span className='flex items-center gap-2 mt-2'> <FaTwitter/>i am Micheal</span>
                                 </div>
                                 <div className=''>
@@ -81,7 +81,7 @@ function HomePage() {
                             <div className=" shadow-2xl bg-[rgba(243,241,241,0.8)] flex flex-col gap-4 rounded-md p-4 py-6">
                             <div className='flex justify-between'>
                                 <div>
-                                    <img className='w-15 h-10' src="/logo.main.png" alt="" />
+                                    <img className='w-15 h-10' src="/logo.png" alt="" />
                                     <span className='flex items-center gap-2 mt-2'> <FaTwitter/> i am Micheal</span>
                                 </div>
                                 <div className=''>
@@ -89,16 +89,15 @@ function HomePage() {
                                 </div>
                             </div>
                         <div>
-                     
-                                    <p className="md:text-lg">
+                                <p className="md:text-lg">
                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat id incidunt eaque debitis nisi eum laudantium impedit. 
-                                    </p>
+                                </p>
                                 </div>
                             </div>
                             <div className=" shadow-2xl bg-[rgba(253,253,253,0.8)] flex flex-col gap-4 rounded-md p-4 py-6">
                             <div className='flex justify-between'>
                                 <div>
-                                    <img className='w-15 h-10' src="/logo.main.png" alt="" />
+                                    <img className='w-15 h-10' src="/logo.png" alt="" />
                                     <span className='flex items-center gap-2 mt-2'> <FaTwitter/>i am Micheal</span>
                                 </div>
                                 <div className=''>
@@ -115,7 +114,7 @@ function HomePage() {
                             <div className=" shadow-2xl  bg-[rgba(251,250,250,0.8)] flex flex-col gap-4 rounded-md p-4 py-6">
                             <div className='flex justify-between'>
                                 <div>
-                                    <img className='w-15 h-10' src="/logo.main.png" alt="" />
+                                    <img className='w-15 h-10' src="/logo.png" alt="" />
                                     <span className='flex items-center gap-2 mt-2'> <FaTwitter/>i am Micheal</span>
                                 </div>
                                 <div className=''>
@@ -123,7 +122,7 @@ function HomePage() {
                                 </div>
                             </div>
                                 <div>
-                                    <h2 className="text-xl font-semibold">UI/UX Design</h2>
+                                  
                                     <p className="md:text-lg">
                                       Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium ab sint laborum, cum doloribus
                                     </p>
