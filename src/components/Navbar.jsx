@@ -20,7 +20,7 @@ function Navbar() {
     <div className=' navbar-container w-full absolute  top-0 z-[90] px-4 h-20 mx-auto justify-between items-center flex sm:px-5 md:px-10 lg:px-10 xl:px-20  bg-opacity-[0.4]  '>
         <div className='logo'>
           <a href='/'>
-            <img src="/logo.png" alt="logo" className=' w-[80px] h-[30px] lg:w-[100px] lg:h-[40px] ' />
+            <img src="/logo.png" alt="logo" className=' w-[80px] h-[30px] lg:w-[150px] lg:h-[50px] ' />
         </a>
       </div>
 
@@ -35,9 +35,9 @@ function Navbar() {
           <nav className=' mobile-nav flex flex-col sm:text-center space-y-6 absolute top-4 right-0 py-6 pl-6 pr-4 font-sans font-bold text-lg bg-[#137e1e]  text-white mt-10 w-[100%] '>
             <a href="/">Home</a>
             <hr />
-            <a href="photoediting">About</a>
+            <a href="About">About</a>
               <hr />
-              <a href="Blog">Blog</a>
+              <a href="/">Blog</a>
           </nav>
         </div>
       )}
@@ -47,7 +47,7 @@ function Navbar() {
         <nav className='flex font-sans font-bold text-lg text-white space-x-8 md:space-x-12 lg:space-x-10 xl:space-x-16 justify-center items-center'>
           <a href="/" className='hover:text-blue-500'>Home</a>
               <a href="About" className='hover:text-blue-500'>About</a>
-              <a href="Blog" className='hover:text-blue-500'>Blog</a>
+              <a href="/" className='hover:text-blue-500'>Blog</a>
           </nav>
       </div>
       </div>

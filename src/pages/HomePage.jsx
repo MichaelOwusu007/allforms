@@ -1,5 +1,4 @@
 import React from 'react'
-import '../styles/Home.css'
 import Navbar from '../components/Navbar'
 import Homepagebanner from '../components/HomePageBanner'
 import Footer from '../components/Footer'
@@ -27,7 +26,6 @@ function HomePage() {
                         <h2 className="title text-center px-2 mb-3 font-semibold relative text-4xl">Latest News</h2>
                         <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-10">
                         <div className=" shadow-2xl bg-[rgba(243,241,241,0.8)] flex flex-col gap-4 rounded-md p-4 py-6">
-
                             <div className='flex justify-between'>
                                 <div>
                                     <img className='w-15 h-10' src="/logo.png" alt="" />
@@ -37,7 +35,6 @@ function HomePage() {
                                     <p>13/12/2001</p>
                                 </div>
                             </div>
-                        
                         <div>
                                     <p className="md:text-lg">
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae accusamus modi minima voluptatibus officia fugiat cum rem perspiciatis

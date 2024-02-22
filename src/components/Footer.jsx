@@ -1,6 +1,6 @@
 import React from 'react'
 import { FiTwitter } from "react-icons/fi";
-import { FaInstagram } from "react-icons/fa";
+import { FaFacebook, FaInstagram } from "react-icons/fa";
 import { CiMail } from "react-icons/ci";
 
 
@@ -27,8 +27,9 @@ function Footer() {
               <p>All Rights Reserved</p>
             </div>
             <div className='flex items-center gap-5 '>
-              <a href="https://twitter.com/that_selorm_guy" className='text-2xl'><i><FiTwitter /></i></a>
-              <a href="https://t.co/3DE0jYOQIe" className='text-2xl'><i><FaInstagram /></i></a>
+              <a href="/" className='text-2xl'><i><FiTwitter /></i></a>
+              <a href="/" className='text-2xl'><i><FaInstagram /></i></a>
+              <a href="/" className='text-2xl'><i><FaFacebook /></i></a>
               <a href="mailto:" className='text-2xl'><i><CiMail /></i></a>
             </div>
           </div>
