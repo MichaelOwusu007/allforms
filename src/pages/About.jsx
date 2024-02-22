@@ -42,14 +42,14 @@ function AboutPage() {
                             </div>
                           </div>
                           <div className='  md:w-[350px] rounded-xl mx-auto my-20 bg-white relative w-[300px] sm:w-[350px] h-[370px] sm:h-[420px] flex items-center justify-center'>
-                            <div className='absolute top-[-20%] sm:w-[300px] w-[250px] inset-0 m-auto '>
-                            <img src="/prudence.jpg" alt="" className=' rounded-xl' />
+                            <div className='absolute top-[-20%] sm:w-[310px] w-[250px] inset-0 m-auto '>
+                            <img src="/ridwan.jpg" alt="" className=' rounded-xl  w-[350px] h-[340px] sm:w-[px] sm:h-[400px]' />
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam velit nulla animi</p>
                             </div>
                           </div>
                           <div className='  md:w-[350px] rounded-xl mx-auto my-20 bg-white relative w-[300px] sm:w-[350px] h-[370px] sm:h-[420px] flex items-center justify-center'>
                             <div className='absolute top-[-20%] sm:w-[300px] w-[250px] inset-0 m-auto '>
-                            <img src="/ridwan.jpg" alt="" className=' rounded-xl  w-[360px] h-[340px] sm:w-[] sm:h-[400px] ' />
+                            <img src="/prudence.jpg" alt="" className=' rounded-xl  ' />
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsam velit nulla animi</p>
                             </div>
                           </div>
